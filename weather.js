@@ -1,5 +1,3 @@
-//Name: Mayank Kathuria
-//Student Number: 1534791
 //Use Ajax to fetch data in text, XML and JSON formats and displays the weather 
 //of the particular city on the page
 (function(){
